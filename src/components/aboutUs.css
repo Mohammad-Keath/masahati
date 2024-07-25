@@ -1,0 +1,23 @@
+.aboutUsSection {
+  height: 100vh ;
+  background-color: var(--black);
+  color: white;
+  text-align: center;
+}
+.aboutUsTitle {
+  padding-top: 80px;
+  /* font-weight: 400; */
+}
+.aboutUsDetails {
+  display: flex;
+  text-align: start;
+  align-items: center;
+  height: 100%;
+}
+
+.aboutUsBlog{
+    max-width: 640px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}

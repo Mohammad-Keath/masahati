@@ -1,0 +1,23 @@
+.ServicesComponent {
+  height: 80vh;
+}
+.servicesTitle{
+    text-align: center;
+    padding-top: 80px;
+    /* font-size: 48px; */
+}
+.servicesContainer {
+    height: 80%;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.serviceBox {
+    height: 280px;
+    width: 350px;
+    background-color: var(--white);
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 30px;
+}
